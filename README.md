@@ -1,4 +1,4 @@
-# REST APIs
+# World Capital Quiz
 
 ## Overview
 - This project is made to practice how to use the Postgres database. The application fetches capital cities from a PostgreSQL database and presents a series of questions to the user. The user can submit their answers, skip questions, and see their total score.
